@@ -1,0 +1,48 @@
+{
+  "name": "financial-news-api",
+  "version": "1.0.0",
+  "description": "Stock market and financial news API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Financial news API",
+    "Stock market news API",
+    "News API",
+    "Real-time news API",
+    "Financial news",
+    "News API",
+    "News stream",
+    "Earnings reports",
+    "Insider trades",
+    "IPOs and equity offerings",
+    "Merger and acquisition news",
+    "SEC filings",
+    "Reuters",
+    "Bloomberg",
+    "JSON news",
+    "Analyst ratings",
+    "The Wall Street Journal",
+    "Seeking Alpha",
+    "News aggregator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "ws": "^8.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FinancialNewsAPI/financial-news-api-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FinancialNewsAPI/financial-news-api-nodejs/issues"
+  },
+  "homepage": "https://developers.newsfilter.io",
+  "bin": {
+    "financial-news-api": "./index.js"
+  }
+}
